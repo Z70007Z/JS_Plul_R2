@@ -1,0 +1,31 @@
+{
+  "name": "defender-webpack",
+  "version": "1.0.0",
+  "description": "js_Work_for_netology",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode production",
+    "start": "webpack serve --mode development",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Z70007Z/JS_Plul_R2.git"
+  },
+  "keywords": [
+    "work2"
+  ],
+  "author": "AlexS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Z70007Z/JS_Plul_R2/issues"
+  },
+  "homepage": "https://github.com/Z70007Z/JS_Plul_R2#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "^5.5.0",
+    "mini-css-extract-plugin": "^2.6.1",
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0",
+    "webpack-dev-server": "^4.11.1"
+  }
+}
