@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/Z70007Z/JS_Plul_R2#readme",
   "devDependencies": {
+    "babel-loader": "^9.1.0",
     "html-webpack-plugin": "^5.5.0",
     "mini-css-extract-plugin": "^2.6.1",
     "webpack": "^5.74.0",
